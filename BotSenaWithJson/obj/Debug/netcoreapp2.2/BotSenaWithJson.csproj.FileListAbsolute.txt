@@ -1,0 +1,7 @@
+C:\Users\carlo\source\repos\BotsBommer\BotSenaWithJson\bin\Debug\netcoreapp2.2\BotSenaWithJson.deps.json
+C:\Users\carlo\source\repos\BotsBommer\BotSenaWithJson\bin\Debug\netcoreapp2.2\BotSenaWithJson.runtimeconfig.json
+C:\Users\carlo\source\repos\BotsBommer\BotSenaWithJson\bin\Debug\netcoreapp2.2\BotSenaWithJson.runtimeconfig.dev.json
+C:\Users\carlo\source\repos\BotsBommer\BotSenaWithJson\bin\Debug\netcoreapp2.2\BotSenaWithJson.dll
+C:\Users\carlo\source\repos\BotsBommer\BotSenaWithJson\obj\Debug\netcoreapp2.2\BotSenaWithJson.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\BotsBommer\BotSenaWithJson\obj\Debug\netcoreapp2.2\BotSenaWithJson.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\BotsBommer\BotSenaWithJson\obj\Debug\netcoreapp2.2\BotSenaWithJson.AssemblyInfo.cs

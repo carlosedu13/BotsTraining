@@ -1,0 +1,11 @@
+C:\Users\carlo\source\repos\BotsBommer\BotSena\bin\Debug\netcoreapp2.2\BotSena.deps.json
+C:\Users\carlo\source\repos\BotsBommer\BotSena\bin\Debug\netcoreapp2.2\BotSena.runtimeconfig.json
+C:\Users\carlo\source\repos\BotsBommer\BotSena\bin\Debug\netcoreapp2.2\BotSena.runtimeconfig.dev.json
+C:\Users\carlo\source\repos\BotsBommer\BotSena\bin\Debug\netcoreapp2.2\BotSena.dll
+C:\Users\carlo\source\repos\BotsBommer\BotSena\bin\Debug\netcoreapp2.2\BotSena.pdb
+C:\Users\carlo\source\repos\BotsBommer\BotSena\obj\Debug\netcoreapp2.2\BotSena.csprojAssemblyReference.cache
+C:\Users\carlo\source\repos\BotsBommer\BotSena\obj\Debug\netcoreapp2.2\BotSena.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\BotsBommer\BotSena\obj\Debug\netcoreapp2.2\BotSena.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\BotsBommer\BotSena\obj\Debug\netcoreapp2.2\BotSena.AssemblyInfo.cs
+C:\Users\carlo\source\repos\BotsBommer\BotSena\obj\Debug\netcoreapp2.2\BotSena.dll
+C:\Users\carlo\source\repos\BotsBommer\BotSena\obj\Debug\netcoreapp2.2\BotSena.pdb

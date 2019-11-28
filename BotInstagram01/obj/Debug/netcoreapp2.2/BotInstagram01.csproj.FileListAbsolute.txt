@@ -1,0 +1,7 @@
+C:\Users\carlo\source\repos\BotsBommer\BotInstagram01\bin\Debug\netcoreapp2.2\BotInstagram01.deps.json
+C:\Users\carlo\source\repos\BotsBommer\BotInstagram01\bin\Debug\netcoreapp2.2\BotInstagram01.runtimeconfig.json
+C:\Users\carlo\source\repos\BotsBommer\BotInstagram01\bin\Debug\netcoreapp2.2\BotInstagram01.runtimeconfig.dev.json
+C:\Users\carlo\source\repos\BotsBommer\BotInstagram01\bin\Debug\netcoreapp2.2\BotInstagram01.dll
+C:\Users\carlo\source\repos\BotsBommer\BotInstagram01\obj\Debug\netcoreapp2.2\BotInstagram01.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\BotsBommer\BotInstagram01\obj\Debug\netcoreapp2.2\BotInstagram01.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\BotsBommer\BotInstagram01\obj\Debug\netcoreapp2.2\BotInstagram01.AssemblyInfo.cs
